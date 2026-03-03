@@ -16,10 +16,10 @@ export interface ProjectData {
 export const projects: ProjectData[] = [
   {
     id: 'ipilot',
-    title: 'iPilot - AI Assistant Platform',
-    description: 'An intelligent AI-powered assistant platform built with Yii PHP framework. Features include natural language processing, context-aware responses, multi-user support, real-time chat functionality, and advanced AI capabilities. Database powered by MySQL/SQL. Planned migration to Next.js in future.',
-    tech: ['Yii Framework', 'PHP', 'MySQL', 'SQL', 'JavaScript', 'AI/ML', 'REST API'],
-    category: 'AI/ML Platform',
+    title: 'iPilot - Telecommunication AI Assistant',
+    description: 'An intelligent AI-powered telecommunication platform built with Yii PHP framework. Provides automated customer support, call routing, network management assistance, and real-time communication analytics for telecom operations. Features include natural language processing, multi-user support, and real-time chat functionality. Database powered by MySQL. Currently running in production. Planned migration to Next.js in future.',
+    tech: ['Yii Framework', 'PHP', 'MySQL', 'SQL', 'JavaScript', 'AI/ML', 'REST API', 'Telecommunication'],
+    category: 'Telecommunication / AI Platform',
     status: 'Completed',
     link: '#',
     github: 'https://github.com/mitajnd123-hue/ipilot',

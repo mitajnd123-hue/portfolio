@@ -24,7 +24,7 @@ export interface ProfileData {
 export const profile: ProfileData = {
   name: 'Mita Makwana',
   title: 'Full Stack Developer | PHP & Next.js Specialist',
-  bio: 'Passionate developer working on iPilot (Yii/PHP), Staylance, and other cutting-edge web applications. Specializing in PHP, React, Next.js, and database-driven applications.',
+  bio: 'Passionate developer working on iPilot (Telecommunication AI Platform), Staylance, and other cutting-edge web applications. Specializing in PHP, React, Next.js, and database-driven applications for enterprise solutions.',
   location: 'India',
   email: 'mita@nuwaveindia.net',
   phone: '+91 (234) 567-890',
@@ -65,9 +65,9 @@ export const skills = [
 // Current focus areas
 export const currentFocus = [
   {
-    title: 'iPilot Platform',
-    description: 'Advanced AI assistant platform built with Yii PHP, planning Next.js migration',
-    icon: '🤖',
+    title: 'iPilot - Telecom AI',
+    description: 'AI-powered telecommunication platform with Yii PHP, planning Next.js migration',
+    icon: '📞',
   },
   {
     title: 'Staylance',
