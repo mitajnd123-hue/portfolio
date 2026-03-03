@@ -30,8 +30,8 @@ export const profile: ProfileData = {
   phone: '+91 (234) 567-890',
   availability: 'Open to opportunities',
   experience: {
-    years: 3,
-    projectsCompleted: 15,
+    years: 4,
+    projectsCompleted: 20,
     clientSatisfaction: 100,
   },
   socialLinks: {
