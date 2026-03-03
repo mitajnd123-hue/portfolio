@@ -17,7 +17,7 @@ export const projects: ProjectData[] = [
   {
     id: 'ipilot',
     title: 'iPilot - Telecommunication AI Assistant',
-    description: 'An intelligent AI-powered telecommunication platform built with Yii PHP framework. Provides automated customer support, call routing, network management assistance, and real-time communication analytics for telecom operations. Features include natural language processing, multi-user support, and real-time chat functionality. Database powered by MySQL. Currently running in production. Planned migration to Next.js in future.',
+    description: 'An intelligent AI-powered telecommunication platform running at Nuwave Communications. Built with Yii PHP framework. Provides automated customer support, call routing, network management assistance, and real-time communication analytics for telecom operations. Features include natural language processing, multi-user support, and real-time chat functionality. Database powered by MySQL. Currently in production serving real customers. Future migration to Next.js planned.',
     tech: ['Yii Framework', 'PHP', 'MySQL', 'SQL', 'JavaScript', 'AI/ML', 'REST API', 'Telecommunication'],
     category: 'Telecommunication / AI Platform',
     status: 'Completed',
