@@ -76,7 +76,7 @@ export const currentFocus = [
   },
   {
     title: 'Fitness & Wellness',
-    description: 'Creating health-focused applications with data analytics',
+    description: 'Personal health-focused application with data analytics for my fitness journey',
     icon: '💪',
   },
 ];

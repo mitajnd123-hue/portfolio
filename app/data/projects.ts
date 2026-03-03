@@ -41,9 +41,9 @@ export const projects: ProjectData[] = [
   {
     id: 'fitness-app',
     title: 'Fitness Tracking App',
-    description: 'Mobile-first fitness tracking application with workout plans, progress tracking, nutrition guides, goal setting, and community features. Helps users achieve their fitness goals with personalized recommendations.',
+    description: 'Personal fitness tracking application built for my own health and wellness journey. Features workout plans, progress tracking, nutrition guides, goal setting, and detailed analytics. Mobile-first PWA design for easy access during workouts. Helps achieve fitness goals with personalized recommendations and data-driven insights.',
     tech: ['Next.js', 'PWA', 'Chart.js', 'Firebase', 'Tailwind CSS', 'React'],
-    category: 'Mobile App',
+    category: 'Personal Project / Mobile App',
     status: 'Completed',
     link: '#',
     github: 'https://github.com/mitajnd123-hue/fitness-app',
