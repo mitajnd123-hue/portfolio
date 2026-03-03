@@ -22,16 +22,16 @@ export interface ProfileData {
 }
 
 export const profile: ProfileData = {
-  name: 'Your Name',
-  title: 'Full Stack Developer | AI Enthusiast',
-  bio: 'Passionate developer working on iPilot and other cutting-edge web applications. Specializing in React, Next.js, and AI integration.',
-  location: 'San Francisco, CA',
-  email: 'hello@example.com',
-  phone: '+1 (234) 567-890',
+  name: 'Mita Makwana',
+  title: 'Full Stack Developer | PHP & Next.js Specialist',
+  bio: 'Passionate developer working on iPilot (Yii/PHP), Staylance, and other cutting-edge web applications. Specializing in PHP, React, Next.js, and database-driven applications.',
+  location: 'India',
+  email: 'mita@nuwaveindia.net',
+  phone: '+91 (234) 567-890',
   availability: 'Available for freelance projects',
   experience: {
-    years: 5,
-    projectsCompleted: 50,
+    years: 3,
+    projectsCompleted: 15,
     clientSatisfaction: 100,
   },
   socialLinks: {
@@ -46,37 +46,37 @@ export const profile: ProfileData = {
 export const skills = [
   {
     category: 'Frontend',
-    items: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Redux', 'Vue.js'],
+    items: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS', 'HTML/CSS'],
   },
   {
     category: 'Backend',
-    items: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL', 'REST API', 'GraphQL'],
+    items: ['PHP', 'Yii Framework', 'Node.js', 'MySQL', 'SQL', 'REST API'],
   },
   {
-    category: 'AI & ML',
-    items: ['OpenAI API', 'TensorFlow', 'Python', 'Natural Language Processing'],
+    category: 'Database',
+    items: ['MySQL', 'SQL', 'MongoDB', 'PostgreSQL', 'Database Design'],
   },
   {
     category: 'Tools & DevOps',
-    items: ['Git', 'Docker', 'AWS', 'Vercel', 'CI/CD', 'Jest'],
+    items: ['Git', 'GitHub', 'Docker', 'AWS', 'Vercel', 'CI/CD'],
   },
 ];
 
 // Current focus areas
 export const currentFocus = [
   {
-    title: 'iPilot Development',
-    description: 'Building an advanced AI assistant platform with Next.js',
+    title: 'iPilot Platform',
+    description: 'Advanced AI assistant platform built with Yii PHP, planning Next.js migration',
     icon: '🤖',
   },
   {
-    title: 'AI Integration',
-    description: 'Exploring modern AI technologies and integrations',
-    icon: '🧠',
+    title: 'Staylance',
+    description: 'Freelance management platform for modern professionals',
+    icon: '💼',
   },
   {
-    title: 'Open Source',
-    description: 'Contributing to open source projects and community',
-    icon: '🌟',
+    title: 'Fitness & Wellness',
+    description: 'Creating health-focused applications with data analytics',
+    icon: '💪',
   },
 ];
