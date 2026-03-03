@@ -1,12 +1,15 @@
 {
-  "name": "peoject-nextjs",
-  "version": "0.1.0",
+  "name": "portfolio-nextjs",
+  "version": "1.0.0",
   "private": true,
+  "description": "A professional portfolio website built with Next.js, TypeScript, and Tailwind CSS",
+  "author": "Your Name",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "next": "16.1.6",
@@ -22,5 +25,13 @@
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwind",
+    "portfolio",
+    "website"
+  ]
 }
